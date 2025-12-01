@@ -1,0 +1,17 @@
+{
+  "name": "dotabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.11"
+  }
+}
